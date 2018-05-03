@@ -1,2 +1,2 @@
 # Convex-Hulls
-Creazione di un programma LISP e Prolog che dato in input una lista di punti, restituisca una lista contenente la Convex Hull.
+From a list of points (x,y), returns a list containing the Convex Hull using the Graham Scan algorithm. Avaible in LISP and Prolog.
